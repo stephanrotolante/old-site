@@ -1,0 +1,28 @@
+[
+   
+    {
+       "id":"about",
+       "card":"About" 
+    },
+    {
+        "id":"experience",
+        "card":"Experience" 
+     },
+     {
+        "id":"education",
+        "card":"Education" 
+     },
+     {
+        "id":"skills",
+        "card":"Skills" 
+     },
+     {
+        "id":"interests",
+        "card":"Interests" 
+     },
+     {
+        "id":"awards",
+        "card":"Awards" 
+     }
+
+]
